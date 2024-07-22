@@ -114,7 +114,7 @@ exclude:
   - CNAME
 
 
-# 部署测试
+# liyuqi@bilibili.com密码配置测试
 [databus]
     key = "XRcwImnmE05r"
     secret = "lcBb05dmWg2OGMqw92gD"
