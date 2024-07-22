@@ -1,4 +1,4 @@
-gahoteguva.github.com
+yuki.github.com
 =====================
 
-hoawukyahyossij
+博客部署测试
